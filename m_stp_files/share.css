@@ -1,0 +1,166 @@
+.utbShareButtons>.toolMenuIcon{
+    margin-top: 3px;
+    /*background-color: #fff;*/
+    float: left;
+
+}
+#fbLike_s:hover {
+    -webkit-box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15), 0 0 0 rgba(255, 255, 255, 0) inset;
+    box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15), 0 0 0 rgba(255, 255, 255, 0) inset;
+    background: -moz-linear-gradient(center top, #5370bb 0, #5370bb) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#5370bb,#5370bb);
+    background: -ms-linear-gradient(top,#5370bb,#5370bb);
+    background: #5370bb;
+}
+
+#gPlus_s:hover {
+    -webkit-box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15), 0 0 0 rgba(255, 255, 255, 0) inset;
+    background: -moz-linear-gradient(center top, #eb5441 0, #eb5441) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#eb5441,#eb5441);
+    background: -ms-linear-gradient(top,#eb5441,#eb5441);
+}
+
+#vkLike_s:hover {
+    background: -moz-linear-gradient(center top, #377bc0 0, #377bc0) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#377bc0,#377bc0);
+    background: -ms-linear-gradient(top,#377bc0,#377bc0);
+    -webkit-box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15), 0 0 0 rgba(255, 255, 255, 0) inset;
+}
+
+#twShare_s:hover {
+    -webkit-box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15), 0 0 0 rgba(255, 255, 255, 0) inset;
+    background: -moz-linear-gradient(center top, #00bdec 0, #00bdec) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#00bdec,#00bdec);
+    background: -ms-linear-gradient(top,#00bdec,#00bdec);
+    background: #00bdec;
+}
+
+#lnLike_s:hover {
+    -webkit-box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15), 0 0 0 rgba(255, 255, 255, 0) inset;
+    background: -moz-linear-gradient(center top, #2280b5 0, #2280b5) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#2280b5,#2280b5);
+    background: -ms-linear-gradient(top,#2280b5,#2280b5);
+    background: #2280b5;
+}
+
+#okLike_s:hover {
+    -webkit-box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15), 0 0 0 rgba(255, 255, 255, 0) inset;
+    background: -moz-linear-gradient(center top, #f78227 0, #f78227) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#f78227,#f78227);
+    background: -ms-linear-gradient(top,#f78227,#f78227);
+    background: #f78227;
+}
+
+#mmLike_s:hover {
+    -webkit-box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px #000000, 0 0 0 #ffffff inset;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15), 0 0 0 rgba(255, 255, 255, 0) inset;
+    background: -moz-linear-gradient(center top, #ef9f04 0, #ef9f04) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#ef9f04,#ef9f04);
+    background-image: -ms-linear-gradient(top,#ef9f04,#ef9f04);
+    background: #ef9f04;
+}
+
+#fbLike_s {
+    background: -moz-linear-gradient(center top , #5370bb 0, #4862a5) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#5370bb,#4862a5);
+    background-image: -ms-linear-gradient(top, #5370bb 0, #4862a5 100%);
+    background:#5370bb;
+    border-color: #425995;
+}
+
+#gPlus_s{
+    background: -moz-linear-gradient(center top , #eb5441 0, #d84937) repeat scroll 0 0 transparent;
+    background-image: -ms-linear-gradient(top, #eb5441 0, #d84937 100%);
+    background: -webkit-linear-gradient(top,#eb5441,#d84937);
+    background: #eb5441;
+    border-color: #c64332;
+}
+
+
+#vkLike_s{
+    background: -moz-linear-gradient(center top , #377bc0 0, #2f6caa) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#377bc0,#2f6caa);
+    background-image: -ms-linear-gradient(top, #377bc0 0, #2f6caa 100%);
+    background: #377bc0;
+    border-color: #2b6299;
+}
+
+#twShare_s{
+    background: -moz-linear-gradient(center top , #00bdec 0, #01a9d4) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#00bdec,#01a9d4);
+    background-image: -ms-linear-gradient(top, #00bdec 0, #01a9d4 100%);
+    background: #00bdec;
+    border-color: #0199bf;
+}
+
+#lnLike_s{
+    background: -moz-linear-gradient(center top , #2280b5 0, #196c9b) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#2280b5,#196c9b);
+    background-image: -ms-linear-gradient(top, #2280b5 0, #196c9b 100%);
+    background: #2280b5;
+   border-color: #19648d;
+}
+
+#okLike_s{
+    background: -moz-linear-gradient(center top , #f78227 0, #e67924) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#f78227,#e67924);
+    background-image: -ms-linear-gradient(top, #f78227 0, #e67924 100%);
+    background: #f78227;
+    border-color: #ce6d21;
+}
+
+#mmLike_s{
+    background: -moz-linear-gradient(center top , #ef9f04 0, #df9403) repeat scroll 0 0 transparent;
+    background: -webkit-linear-gradient(top,#ef9f04,#df9403);
+    background-image: -ms-linear-gradient(top, #ef9f04 0, #df9403 100%);
+    background:#ef9f04;
+    border-color: #ce8904;
+}
+
+.utbShareButtons {
+    cursor: pointer;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    -webkit-box-shadow: 1px 1px 0 #000000,inset 0 0 0 #ffffff;
+    -webkit-box-shadow: 1px 1px 0 rgba(0,0,0,0.2),inset 0 0 0 rgba(255,255,255,0);
+    box-shadow: 1px 1px 0 #000000, 0 0 0 #ffffff inset;
+    box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2), 0 0 0 rgba(255, 255, 255, 0) inset;
+    min-height: 28px;
+    height: 28px;
+    margin-left: 10px;
+    overflow: hidden;
+    display: block;
+    min-width: 75px;
+    width: 75px;
+    padding-left: 5px;
+    margin-top: 4px;
+    text-align: center;
+}
+
+
+.utbShareCounter {
+    color: white;
+    font-family: Verdana, Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 14px;
+    -webkit-text-shadow: 0 0 0 #FFF;
+    text-shadow: 0 0 0 #FFF;
+    padding: 7px 5px 0 10px;
+    display: inline-block;
+}

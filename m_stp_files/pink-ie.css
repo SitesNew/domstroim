@@ -1,0 +1,22 @@
+/* Menu (begin) */
+    .b-menu-mark .default
+    {
+        background: none;
+        filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/i/users/color/pink/arrow.png',sizingmethod=scale);
+    }
+/* Menu (end) */
+
+/* Photo informer (begin) */
+    * html .b-photo-informer .back a
+    {
+        background: none;
+        filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/i/users/color/pink/photos-back.png',sizingmethod=scale);
+    }
+
+    * html .b-photo-informer .forward a
+    {
+        background: none;
+        filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/i/users/color/pink/photos-forward.png',sizingmethod=scale);
+    }
+/* Photo informer (end) */
+
